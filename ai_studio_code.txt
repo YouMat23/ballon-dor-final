@@ -1,0 +1,11 @@
+/ (your repository root)
+├── backend/
+│   └── api/
+│       └── server.js
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── index.html
+│   ├── package.json
+│   └── ... (all other frontend files)
+└── vercel.json
